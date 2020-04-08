@@ -6,4 +6,5 @@ public class LocatingMap {
         
         //from GitHub
     //locating map
+    }
 }
